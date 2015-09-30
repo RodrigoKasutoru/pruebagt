@@ -8,3 +8,7 @@ Cambios con todas las propiedades
 
 cambios a
 perro
+
+gato
+
+ggggg
